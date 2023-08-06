@@ -1,0 +1,10 @@
+pandas==2.0.3
+scikit-learn
+tqdm==4.51.0
+torch==2.0.1
+torchvision==0.8.2
+torchaudio==2.0.2
+omegaconf==2.3.0
+
+### LG Aimers에서 제공한 베이스라인 코드 실행을 위해 설치
+ipywidgets
